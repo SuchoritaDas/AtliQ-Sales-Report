@@ -45,5 +45,5 @@ The goal of these reports is to:
 
 
 
-Would you like me to also make a student‑friendly LinkedIn post version of this README (with gratitude + motivational tone), so you can share it as part of your SQL/analytics journey?
+
 
