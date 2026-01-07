@@ -6,9 +6,13 @@ The goal was to transform raw sales and financial data from multiple years into 
 All analysis was developed in Excel using Power Query and Power Pivot and delivered in PDF format so it can be shared easily with management teams.
 ### ● Overall Business Performance (P&L by Fiscal Year)
 -- AtliQ Hardware experienced extremely fast growth over three years.
+
 -- In 2019, the company generated ₹87.5M in net sales with a gross margin of ₹36.2M, giving a profit margin of 41.4%.
+
 -- In 2020, revenue increased to ₹196.7M, but the profit margin dropped to 37.3%.
+
 -- By 2021, revenue reached ₹598.9M, but margin fell further to 36.4%.
+
 -- This means the business grew more than 6× in sales, yet became less profitable per rupee of revenue.
 The company is selling far more products, but rising costs, discounts, or operational inefficiencies are reducing profitability.
 ### ● Market Performance and Revenue Quality (P&L by Market)
